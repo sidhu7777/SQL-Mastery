@@ -3,13 +3,13 @@
 ##  Project Overview  
 This project is a **comprehensive SQL initiative** that combines **learning materials, database architecture, and real-world analysis**. It is structured into **three key parts**:  
 
-### **1 SQL Learning Guide**  
+### **1. SQL Learning Guide**  
  A structured guide covering **SQL fundamentals to advanced topics**.  
 
-### **2 Data Warehouse Development**  
+### **2. Data Warehouse Development**  
  Creating a **structured database optimized for analytical queries**.  
 
-### **3 Sales Analytics Project**  
+### **3. Sales Analytics Project**  
  Performing **real-world customer & sales analysis** using SQL queries.  
 
 This repository serves as both a **learning resource** and a **hands-on project** to apply SQL in a **business context**.  
