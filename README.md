@@ -1,4 +1,14 @@
-#  SQL Project - Sales Data Analysis
+Project Title:
+SQL Mastery: Learning, Data Warehousing & Sales Analytics
+
+ Project Overview:
+This project is a comprehensive SQL initiative that combines learning materials, database architecture, and real-world analysis. It is structured into three key parts:
+
+ SQL Learning Guide – A structured guide covering SQL fundamentals to advanced topics.
+ Data Warehouse Development – Creating a structured database optimized for analytical queries.
+ Sales Analytics Project – Performing real-world customer & sales analysis using SQL queries.
+
+This repository serves as both a learning resource and a hands-on project to apply SQL in a business context.
 
 
 ---
