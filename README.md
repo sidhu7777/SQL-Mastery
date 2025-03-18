@@ -1,5 +1,13 @@
 #  SQL Project - Sales Data Analysis
 
+
+---
+
+## 📥 Dataset Download
+🔗 **Download Dataset:** [Google Drive Link](YOUR_GOOGLE_DRIVE_LINK_HERE)
+
+---
+
 ##  Dataset Overview
 This project uses a structured **Sales Dataset** containing multiple tables related to customers, orders, products, and payments. The dataset is useful for learning **SQL queries, joins, aggregations, and data analysis**.
 
@@ -76,12 +84,7 @@ This project uses a structured **Sales Dataset** containing multiple tables rela
 | `seller_city`            | City of the seller |
 | `seller_state`           | State of the seller |
 
----
 
-## 📥 Dataset Download
-🔗 **Download Dataset:** [Google Drive Link](YOUR_GOOGLE_DRIVE_LINK_HERE)
-
----
 
 
 
