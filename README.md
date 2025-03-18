@@ -3,8 +3,8 @@
 
 ---
 
-## 📥 Dataset Download
-🔗 **Download Dataset:** [Google Drive Link](YOUR_GOOGLE_DRIVE_LINK_HERE)
+## Dataset Download
+**Download Dataset:** [Google Drive Link](YOUR_GOOGLE_DRIVE_LINK_HERE)
 
 ---
 
