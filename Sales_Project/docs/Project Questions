@@ -1,0 +1,76 @@
+
+- Customer Purchase Behavior & Segmentation
+ Goal: Analyze customer buying patterns and segment them into groups.
+ Key Business Questions
+1.	Who are the top 10 highest-spending customers?
+2.	How many orders does each customer place on average?
+3.	What percentage of customers are repeat buyers vs. one-time buyers?
+4.	Which cities/states have the most customers?
+5.	Which customers buy the most expensive products?
+6.	What is the average order value per customer segment?
+7.	How does customer spending change over time?
+8.	What is the most common payment method used per customer segment?
+9.	How many customers only placed one order?
+10.	What percentage of total revenue comes from the top 10% of customers?
+11.	How does the average order value differ for repeat vs. one-time buyers?
+12.	What are the most common product categories purchased by repeat customers?
+13.	What is the average time gap between repeat purchases?
+14.	What is the customer retention rate (customers who made purchases again within 3/6/12 months)?
+15.	Which customer segment (high, medium, low spenders) prefers which payment method?
+16.	How does the number of orders per customer change over time?
+17.	Which age group (if available) spends the most?
+18.	What is the churn rate (customers who haven’t purchased in X months)?
+
+
+
+
+- Sales Performance & Revenue Insights
+ Goal: Track overall sales trends and identify revenue drivers.
+ Key Business Questions
+1.	What is the total revenue per month?
+2.	Which products generate the most revenue?
+3.	How does revenue vary by location (state/city)?
+4.	Which sellers have the highest sales?
+5.	What is the average order value per month?
+6.	What percentage of orders are high-value purchases (above a certain amount)?
+7.	How do payment methods impact revenue (which method is used the most)?
+8.	What are the peak sales months for this business?
+9.	How many orders are placed per day/week/month?
+10.	How many orders were placed each month for the last 12 months?
+11.	Which day of the week has the highest sales?
+12.	What are the most common order amounts? (Price distribution of orders)
+13.	What is the profit margin per product category?
+14.	Which sellers contribute the most to overall revenue?
+15.	What are the monthly and yearly growth rates of total revenue?
+16.	Which states/countries have the fastest-growing customer base?
+
+
+
+
+
+
+- Product Category Performance & Pricing Strategy
+ Goal: Identify top-performing products and optimize pricing strategies.
+ Key Business Questions
+1.	Which product categories have the highest sales?
+2.	What is the best-selling product of all time?
+3.	What is the average price per product category?
+4.	Are lower-priced products selling more than premium products?
+5.	Which products have the highest total revenue?
+6.	Which sellers are selling the most products?
+7.	Which products are frequently purchased together?
+8.	How does product price impact the number of orders?
+9.	What is the most expensive vs. least expensive product that sells the most?
+10.	Which product categories have the most consistent sales volume?
+11.	Which products have low sales despite high price?
+12.	Which products sell better when discounted (if discount data is available)?
+13.	What is the best-selling product per seller?
+14.	How does the average order value differ for different product categories?
+15.	What percentage of total revenue comes from the top 10 products?
+16.	Which products experience seasonal demand changes?
+17.	What is the average shipping cost per product category?
+18.	Which sellers dominate specific product categories?
+19.	Which products have the most customer complaints (if available)?
+20.	Are there products that frequently get returned?
+
+
